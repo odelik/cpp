@@ -1,5 +1,5 @@
-﻿Build started 1/24/2015 12:50:32 PM.
-     1>Project "C:\Users\fuzze_000\Projects\cpp\CPP-Program_Design_Including_Data_Structures_Malik\Chapter_2\Examples\Examples\Examples.vcxproj" on node 2 (Build target(s)).
+﻿Build started 1/24/2015 1:36:38 PM.
+     1>Project "C:\Users\fuzze_000\Projects\cpp\CPP-Program_Design_Including_Data_Structures_Malik\Chapter_2\Examples\Examples\Examples.vcxproj" on node 3 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "2-1.cpp"
          2-1.cpp
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.67
+Time Elapsed 00:00:01.75
