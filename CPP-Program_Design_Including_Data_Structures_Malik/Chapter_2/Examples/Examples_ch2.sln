@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4_Floating-Point_Arithmet
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-8_Order_of_Precedence", "2-8_Order_of_Precedence\2-8_Order_of_Precedence.vcxproj", "{4E706FE1-BEC8-46AC-A354-E6BE32258D06}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-9_Casting", "2-9_Casting\2-9_Casting.vcxproj", "{9191C6FA-8E70-46CC-B382-AF58764CB11C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Debug|Win32.Build.0 = Debug|Win32
 		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Release|Win32.ActiveCfg = Release|Win32
 		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Release|Win32.Build.0 = Release|Win32
+		{9191C6FA-8E70-46CC-B382-AF58764CB11C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9191C6FA-8E70-46CC-B382-AF58764CB11C}.Debug|Win32.Build.0 = Debug|Win32
+		{9191C6FA-8E70-46CC-B382-AF58764CB11C}.Release|Win32.ActiveCfg = Release|Win32
+		{9191C6FA-8E70-46CC-B382-AF58764CB11C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
