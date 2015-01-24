@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_2-1_cout", "Examples_2-1_cout\Examples.vcxproj", "{B12D1CF8-2F87-47DE-B4B5-A90DC15D9A71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-1_cout", "2-1_cout\Examples.vcxproj", "{B12D1CF8-2F87-47DE-B4B5-A90DC15D9A71}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_2-3_Integer_Arithmetic", "Example_2-3_Integer_Arithmetic\Example_2-3.vcxproj", "{B3A96380-FB63-4DF4-93D0-4009422AB340}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-3_Integer_Arithmetic", "2-3_Integer_Arithmetic\Example_2-3.vcxproj", "{B3A96380-FB63-4DF4-93D0-4009422AB340}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_2-4_Floating-Point_Arithmetic", "Example_2-4_Floating-Point_Arithmetic\Example_2-4.vcxproj", "{39D65626-3D2D-4144-A68C-BC05AEE7432D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-4_Floating-Point_Arithmetic", "2-4_Floating-Point_Arithmetic\Example_2-4.vcxproj", "{39D65626-3D2D-4144-A68C-BC05AEE7432D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-8_Order_of_Precedence", "2-8_Order_of_Precedence\2-8_Order_of_Precedence.vcxproj", "{4E706FE1-BEC8-46AC-A354-E6BE32258D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{39D65626-3D2D-4144-A68C-BC05AEE7432D}.Debug|Win32.Build.0 = Debug|Win32
 		{39D65626-3D2D-4144-A68C-BC05AEE7432D}.Release|Win32.ActiveCfg = Release|Win32
 		{39D65626-3D2D-4144-A68C-BC05AEE7432D}.Release|Win32.Build.0 = Release|Win32
+		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Debug|Win32.Build.0 = Debug|Win32
+		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Release|Win32.ActiveCfg = Release|Win32
+		{4E706FE1-BEC8-46AC-A354-E6BE32258D06}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
